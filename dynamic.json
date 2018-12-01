@@ -1,0 +1,47 @@
+{
+  "career":{
+    "Info":"To work in an environment "
+
+
+},
+"education":[
+  {
+    "degree":"B.tech(IT)",
+    "Institution":"VIGNAN",
+    "YOP":"2020",
+    "percentege":"80"
+  },
+{
+
+    "degree":"INTERMEDIATE",
+    "Institution":"SRICHAITHNYA",
+    "YOP":"2016",
+    "percentege":"7.5"
+  },
+  {
+    "degree":"SCHOOL",
+    "Institution":"BASHYAM",
+    "YOP":"2014",
+    "percentege":"7.5"
+  }
+],
+  "Skills":[
+    {
+    "title":"platforms",
+    "content":"windows,linux"
+  },
+  {
+  "title":"Programming Languages",
+  "content":"c,c++,java,python"
+},
+{
+  "title":"Database",
+  "content":"mysql,pl/sql"
+},
+{
+  "title":"Languages",
+  "content":"Engilsh,Telugu"
+},
+
+]
+}
